@@ -5,4 +5,3 @@ console.log(chalk.red('Hello world!'));
 console.log(chalk.green('Hello world!'));
 console.log(chalk.magenta('Hello world!'));
 console.log(chalk.cyan('Hello world!'));
-console.log(chalk.yellow('Hello world!'));
